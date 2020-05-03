@@ -4,6 +4,7 @@ class Lab3
 	{
 		int a;
 		System.out.println(a);
+
 	}
 }
 
